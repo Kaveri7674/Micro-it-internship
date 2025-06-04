@@ -29,4 +29,5 @@ FUTURE IMPROVEMENTS:
 3.Multi-user and networked database support
 
 !! Contributions
+
 Contributions are welcome! Please fork the repo and submit pull requests. For big changes, open an issue first.
