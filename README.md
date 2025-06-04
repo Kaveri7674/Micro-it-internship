@@ -9,6 +9,7 @@ FEATURES:
 -  Delete student records
 -  View all student data in a tabular form
 -  Data stored persistently using SQLite database
+-  
 TECHNOLOGIES USED:
 - Python 3.x
 - Tkinter (for GUI)
