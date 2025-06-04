@@ -13,6 +13,7 @@ TECHNOLOGIES USED:
 - Python 3.x
 - Tkinter (for GUI)
 - SQLite3 (for database)
+- 
 - HOW-TO-RUN
 !! Make sure you have Python 3 installed on your system
 1.Clone the Repository
@@ -21,9 +22,11 @@ TECHNOLOGIES USED:
 3.run the application
   python main.py
 *This will launch the Tkinter GUI for managing student records.
+
 FUTURE IMPROVEMENTS:
 1.Export student data to CSV or PDF
 2.Improved UI/UX design with themes
 3.Multi-user and networked database support
+
 !! Contributions
 Contributions are welcome! Please fork the repo and submit pull requests. For big changes, open an issue first.
