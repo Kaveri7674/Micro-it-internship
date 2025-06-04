@@ -2,7 +2,7 @@
 # 🎓 Student Management System
 A desktop application built with Python,Tkinter and SQLite for storage.. To manage student records efficiently through an easy-to-use graphical user interface.
 FEATURES:
--Admin Authentication (Default Credentials which are set in the code..need to change the code to change tye credentials)
+-Admin Authentication (Default Credentials which are set in the code..need to change the code to change the credentials)
 - Add new student records (Name,Student ID, contact,Grade..)
 -  Search students by name or roll number
 -  Update existing student details
