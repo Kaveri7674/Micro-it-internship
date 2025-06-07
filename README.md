@@ -1,4 +1,4 @@
-# Micro-it-internship
+
 # 🎓 Student Management System
 A desktop application built with Python,Tkinter and SQLite for storage.. To manage student records efficiently through an easy-to-use graphical user interface.
 FEATURES:
